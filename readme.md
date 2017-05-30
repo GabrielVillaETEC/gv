@@ -1,3 +1,4 @@
-# Projeto de exemplo Emia   
+# Projeto de PW2   
 
-Projeto de exemplo do Emia para download. Usem como referencia
+Alunos: Gabriel Villa, Stephanie Orihuela
+Sala: 3ºEMIA
